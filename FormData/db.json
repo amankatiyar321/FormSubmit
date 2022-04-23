@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "username": "Aman Katiyar",
+      "password": "Chaman321",
+      "age": "22",
+      "gender": "",
+      "dob": "1998-01-05",
+      "showpassword": false,
+      "id": 1
+    },
+    {
+      "username": "Praveen",
+      "password": "Uhdnw65",
+      "age": "32",
+      "gender": "",
+      "dob": "2020-09-03",
+      "showpassword": "false",
+      "id": 2
+    }
+  ]
+}
